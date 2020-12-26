@@ -1,5 +1,6 @@
 # ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: NICK
+# PI-HOLE SOCIAL BLOCKLIST: PORN
 # ----------------------------------------------------------
-
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 
