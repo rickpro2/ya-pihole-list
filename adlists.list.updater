@@ -1,4 +1,15 @@
 # ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: RMP2 BLOCKLIST
+# ----------------------------------------------------------
+https://raw.githubusercontent.com/rickpro2/ya-pihole-list/master/Block-Sometimes
+https://raw.githubusercontent.com/rickpro2/ya-pihole-list/master/Block-Always
+
+
+
+
+
+
+# ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: PORN
 # ----------------------------------------------------------
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
