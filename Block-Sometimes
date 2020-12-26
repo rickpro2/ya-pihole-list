@@ -1,1 +1,35 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: NICK
+# ----------------------------------------------------------
+nick.tv
+www.nick.tv
+nick.com
+www.nick.com
+www.nick.co.uk
+nick.co.uk
+www.nickjr.co.uk
+nickjr.co.uk
+nick.com.au
+www.nick.com.au
+nickjr.com
+www.nickjr.com
+
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: DISNEY
+# ----------------------------------------------------------
+disneynow.com
+www.disneynow.com
+
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: CARTOON NETWORK
+# ----------------------------------------------------------
+cartoonnetworkhq.com
+www.cartoonnetworkhq.com
+
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: UFREE GAMES
+# ----------------------------------------------------------
+ufreegames.com
+www.ufreegames.com
+game.ufreegames.com
 
