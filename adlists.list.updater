@@ -21,8 +21,10 @@ https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/all.txt
 # ----------------------------------------------------------
 https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/all.txt
 
-
-
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: GAMING
+# ----------------------------------------------------------
+https://raw.githubusercontent.com/dupontjean/pihole-blocklist/master/game.txt
 
 
 
