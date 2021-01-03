@@ -17,9 +17,10 @@ https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/all.txt
 
 # ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: SOCIAL MEDIA
+# PI-HOLE SOCIAL BLOCKLIST: Ads, (Mobile) App Ads, Phishing, Malvertising
 # ----------------------------------------------------------
-https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/all.txt
+https://dbl.oisd.nl/
+https://abp.oisd.nl/
 
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: GAMING
@@ -73,7 +74,6 @@ https://mirror1.malwaredomains.com/files/justdomains
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 # spam mails (phishing)
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
-# Ads, (Mobile) App Ads, Phishing, Malvertising
-https://dbl.oisd.nl/
+
 # windows spy
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
