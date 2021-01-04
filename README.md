@@ -44,6 +44,15 @@ Add the argument `1` to your `sudo sh adlists-updater.sh 1` call.
 	0 */12 * * * sudo /home/pi/ya-pihole-list/adlists-updater.sh 1 >/dev/null
 	```
 
+	```
+	0 8 * * * sudo sed -i 's/^WEBTHEME\=.*/WEBTHEME="default-light"/' /etc/pihole/setupVars.conf
+	```
+
+	```
+	0 21 * * * sudo sed -i 's/^WEBTHEME\=.*/WEBTHEME="default-dark"/' /etc/pihole/setupVars.conf
+	```
+
+
 ## Screenshots
 ![Pi-hole 5 Adlists](./docs/Pi-hole%205%20Adlists.png)
 
